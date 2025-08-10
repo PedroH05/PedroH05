@@ -3,18 +3,10 @@
 
 ---
 
-## 👀 Contador de visitantes
-![Visitas](https://komarev.com/ghpvc/?username=PedroH05&color=3DDC84&style=for-the-badge)
-
-⏱ **Tempo codando desde que você abriu este perfil:**
-![Wakatime](https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg)
-
----
-
 ## 🚀 Sobre mim
 - 📱 Atualmente focado em **Kotlin** e desenvolvimento **Android** usando Android Studio  
 - 🖥️ Estudando **C++** para aprofundar em lógica.
-- 🎯 Objetivo: Criar apps e sistemas que façam diferença na vida das pessoas  
+- 🎯 Objetivo: Criar apps e sistemas que façam diferença na vida das pessoas
 
 ---
 
@@ -60,6 +52,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-carvalho-a1345a2b7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroph.nunes05@gmail.com)
 
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0095D5,100:3DDC84&height=120&section=footer"/>
+
+
+
