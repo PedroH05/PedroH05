@@ -10,6 +10,12 @@
 
 ---
 
+- ## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-carvalho-a1345a2b7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroph.nunes05@gmail.com)
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 ### 💡 Linguagens
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -45,13 +51,6 @@
 ## 📊 Estatísticas no GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroH05&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH05&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-carvalho-a1345a2b7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroph.nunes05@gmail.com)
-
 
 ---
 
