@@ -41,7 +41,7 @@
 |------------------|--------|
 | **Kotlin**       | 📚 Aprendendo |
 | **Android Studio**| 📚 Aprendendo |
-| **C++**          | 🔜 Em breve |
+| **C++**          | 📚 Aprendendo |
 | **Python**       | ✅ Básico/Intermediário |
 | **Java**         | ✅ Básico/Intermediário |
 | **C**            | ✅ Intermediário/Avançado |
