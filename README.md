@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0095D5,100:3DDC84&height=200&section=header&text=Pedro%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Kotlin%20|%20Android%20&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0095D5,100:3DDC84&height=200&section=header&text=Pedro%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&|" width="100%"/>
 
 ---
 
