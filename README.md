@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 📱 Atualmente focado em **Kotlin** e desenvolvimento **Android** usando Android Studio  
+- 📱 Atualmente focado em **Python** e **SQL**
 - 🖥️ Estudando **C++** para aprofundar em lógica.
 - 🎯 Objetivo: Criar apps e sistemas que façam diferença na vida das pessoas
 
@@ -18,16 +18,10 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 ### 💡 Linguagens
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📱 Desenvolvimento Android
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 
 ### ⚙️ Outros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -39,10 +33,8 @@
 ## 📚 Status de aprendizado
 | Tecnologia       | Status |
 |------------------|--------|
-| **Kotlin**       | 📚 Aprendendo |
-| **Android Studio**| 📚 Aprendendo |
 | **C++**          | 📚 Aprendendo |
-| **Python**       | ✅ Básico/Intermediário |
+| **Python**       | ✅ Intermediário |
 | **Java**         | ✅ Básico/Intermediário |
 | **C**            | ✅ Intermediário/Avançado |
 
