@@ -40,12 +40,6 @@
 
 ---
 
-## 📊 Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroH05&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH05&layout=compact&theme=tokyonight)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0095D5,100:3DDC84&height=120&section=footer"/>
 
 
