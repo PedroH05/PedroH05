@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 📱 Atualmente focado em *Back-end com Python e Java*
+- 📱 Atualmente focado em *Back-end com Java*
 - 🎯 Objetivo: Criar apps e sistemas que façam diferença na vida das pessoas
 
 ---
